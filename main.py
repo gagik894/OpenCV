@@ -3,6 +3,7 @@ import cv2
 import os
 import numpy as np
  
+ 
 # Parameters
 width, height = 1280, 720
 gestureThreshold = 450
